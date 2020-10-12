@@ -1,0 +1,1 @@
+// Sprockets::Railtie::ManifestNeededError
